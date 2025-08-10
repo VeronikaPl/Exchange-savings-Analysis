@@ -25,6 +25,7 @@
 - Різниця між PLN та USD суттєва — <b>7,29%</b> (~52 541 грн), що робить USD найменш вигідною валютою у цьому сценарії
 - Вибір валюти має значення, але між <b>PLN</b> та <b>EUR</b> вплив майже непомітний на обсязі в річному горизонті
 
+###
 
 # [ENG] Currency Savings Analysis: Comparing Returns in PLN, EUR & USD
 
@@ -41,7 +42,7 @@ It compares cumulative returns for PLN, EUR, and USD over the past 360 days and 
 - Saved processed results to <b>Excel</b> for further review
 
 ## Tools & Techniques
-- <b>Python<b> (pandas, matplotlib, requests)
+- <b>Python</b> (pandas, matplotlib, requests)
 - Exploratory Data Analysis (EDA)
 - <b>API</b> data retrieval and <b>JSON</b> parsing
 - Cumulative calculations and currency conversion
