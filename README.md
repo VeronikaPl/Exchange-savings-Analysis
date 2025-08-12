@@ -19,13 +19,17 @@
 - Розрахунок кумулятивних значень та валютна конвертація
 - Візуалізація для порівняння трендів
 
+![Динаміка заощаджень у валютах](savings_dynamics.png)
+
 ## Ключові висновки
 - <b>Польський злотий (PLN)</b> дав найбільший обсяг накопичень у гривневому еквіваленті за 360 днів
 - Різниця між PLN та EUR майже непомітна — <b>0,11%</b> (~881 грн), що свідчить про однакову ефективність накопичень у цих валютах
 - Різниця між PLN та USD суттєва — <b>7,29%</b> (~52 541 грн), що робить USD найменш вигідною валютою у цьому сценарії
 - Вибір валюти має значення, але між <b>PLN</b> та <b>EUR</b> вплив майже непомітний на обсязі в річному горизонті
 
-###
+![Заощадження у гривнях](savings_to_uah.png)
+
+---
 
 # [ENG] Currency Savings Analysis: Comparing Returns in PLN, EUR & USD
 
@@ -48,8 +52,12 @@ It compares cumulative returns for PLN, EUR, and USD over the past 360 days and 
 - Cumulative calculations and currency conversion
 - Data visualization for trend comparison
 
+![Exchange rates dynamic](savings_dynamics.png)
+
 ## Key Insights
 - The <b>Polish zloty (PLN)</b> produced the highest amount in UAH equivalent after 360 days
 - The difference between PLN and EUR returns is minimal — <b>0.11%</b> (~881 UAH), meaning both currencies are almost equally effective for savings
 - The difference between PLN and USD returns is significant — <b>7.29%</b> (~52,541 UAH), making USD the least profitable option in this scenario
 - Currency choice matters, but between <b>PLN</b> and <b>EUR</b>, the impact is negligible over the analyzed period
+
+![Savings UAH](savings_to_uah.png)
