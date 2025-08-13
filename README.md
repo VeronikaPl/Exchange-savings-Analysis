@@ -61,7 +61,7 @@ It compares cumulative returns for PLN, EUR, and USD over the past 360 days and 
 - Cumulative calculations and currency conversion
 - Data visualization for trend comparison
 
-![Exchange rates dynamic](img/savings_dynamics.png)
+![Exchange rates dynamic](img/eng/savings_dynamics.png)
 
 ## Power BI Dashboard
 In addition to static Python visualizations, an interactive dashboard in <b>Power BI</b> was created for deeper savings analysis:
@@ -70,7 +70,7 @@ In addition to static Python visualizations, an interactive dashboard in <b>Powe
 - Comparison of final UAH amounts and percentage differences between currencies
 - Ability to filter by period and currency
 
-![Power BI Dashboard](img/exchange_savings_analysis_dashboard.jpg)
+![Power BI Dashboard](img/eng/exchange_savings_analysis_dashboard.jpg)
 
 ## Key Insights
 - The <b>Polish zloty (PLN)</b> produced the highest amount in UAH equivalent after 360 days
@@ -78,4 +78,4 @@ In addition to static Python visualizations, an interactive dashboard in <b>Powe
 - The difference between PLN and USD returns is significant — <b>7.29%</b> (~52,541 UAH), making USD the least profitable option in this scenario
 - Currency choice matters, but between <b>PLN</b> and <b>EUR</b>, the impact is negligible over the analyzed period
 
-![Savings UAH](img/savings_to_uah.png)
+![Savings UAH](img/eng/savings_to_uah.png)
