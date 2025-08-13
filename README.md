@@ -19,7 +19,7 @@
 - Розрахунок кумулятивних значень та валютна конвертація
 - Візуалізація для порівняння трендів
 
-![Динаміка заощаджень у валютах](savings_dynamics.png)
+![Динаміка заощаджень у валютах](img\savings_dynamics.png)
 
 ## Дашборд у Power BI
 Окрім статичних візуалізацій у Python, було створено інтерактивний дашборд у <b>Power BI</b> для глибшого аналізу накопичень:
@@ -28,7 +28,7 @@
 - Порівняння підсумкових сум у гривнях та відсоткової різниці між валютами
 - Можливість фільтрувати за періодом та валютою
 
-![Power BI Dashboard]
+![Power BI Dashboard](img\exchange_savings_analysis_dashboard.jpg)
 
 ## Ключові висновки
 - <b>Польський злотий (PLN)</b> дав найбільший обсяг накопичень у гривневому еквіваленті за 360 днів
@@ -36,7 +36,7 @@
 - Різниця між PLN та USD суттєва — <b>7,29%</b> (~52 541 грн), що робить USD найменш вигідною валютою у цьому сценарії
 - Вибір валюти має значення, але між <b>PLN</b> та <b>EUR</b> вплив майже непомітний на обсязі в річному горизонті
 
-![Заощадження у гривнях](savings_to_uah.png)
+![Заощадження у гривнях](img\savings_to_uah.png)
 
 ---
 
@@ -61,7 +61,16 @@ It compares cumulative returns for PLN, EUR, and USD over the past 360 days and 
 - Cumulative calculations and currency conversion
 - Data visualization for trend comparison
 
-![Exchange rates dynamic](savings_dynamics.png)
+![Exchange rates dynamic](img\savings_dynamics.png)
+
+## Power BI Dashboard
+In addition to static Python visualizations, an interactive dashboard in <b>Power BI</b> was created for deeper savings analysis:
+- Trends of savings in PLN, EUR, and USD over the selected period
+- Conversion to UAH at the last day's exchange rate
+- Comparison of final UAH amounts and percentage differences between currencies
+- Ability to filter by period and currency
+
+![Power BI Dashboard](img\exchange_savings_analysis_dashboard.jpg)
 
 ## Key Insights
 - The <b>Polish zloty (PLN)</b> produced the highest amount in UAH equivalent after 360 days
@@ -69,4 +78,4 @@ It compares cumulative returns for PLN, EUR, and USD over the past 360 days and 
 - The difference between PLN and USD returns is significant — <b>7.29%</b> (~52,541 UAH), making USD the least profitable option in this scenario
 - Currency choice matters, but between <b>PLN</b> and <b>EUR</b>, the impact is negligible over the analyzed period
 
-![Savings UAH](savings_to_uah.png)
+![Savings UAH](img\savings_to_uah.png)
